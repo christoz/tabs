@@ -1,0 +1,29 @@
+{
+  "robots": [
+    {
+      "name": "BB-8",
+      "points": "2945",
+      "icon": "bb-8.svg"
+    },
+    {
+      "name": "C3P-0",
+      "points": "1000",
+      "icon": "C3P-0.svg"
+    },
+    {
+      "name": "Boba Fett",
+      "points": "1020",
+      "icon": "fett.svg"
+    },
+    {
+      "name": "R2-D2",
+      "points": "5020",
+      "icon": "r2-d2.svg"
+    },
+    {
+      "name": "Darth Vader",
+      "points": "4020",
+      "icon": "vader.svg"
+    }
+  ]
+}
