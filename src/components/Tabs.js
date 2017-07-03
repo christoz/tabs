@@ -74,8 +74,7 @@ class Tabs extends Component {
     this.setState({
       robots: [
         ...this.state.robots.slice(0, index),
-        robot,
-        ...this.state.robots.slice(index + 1)
+        robot
       ]
     })
   }

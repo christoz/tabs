@@ -16,4 +16,3 @@ render(
   <Tabs labels={Data.robots} selected={0} />,
   window.__robots
 )
-
